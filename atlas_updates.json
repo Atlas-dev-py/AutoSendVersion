@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "changelog": [
-    "- Changement de pseudo",
-    "- Exemple de modification 2",
+    "-",
+    "-",
     "- Correction de bugs",
-    "- Nouvelles fonctionnalités"
+    "-"
   ],
   "download_url": "https://example.com/AtlasAutoSendTMP_v1.1.0.exe"
 }
